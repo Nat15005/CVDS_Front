@@ -1,3 +1,14 @@
+# Integrantes
+#### Cristian Javier Alvarez
+
+#### Laura Natalia Rojas
+
+# Entrega
+https://red-meadow-01516aa10.5.azurestaticapps.net
+
+https://employee-mvc.azurewebsites.net
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
